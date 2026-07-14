@@ -37,7 +37,7 @@ const bgMusic = document.getElementById("bgMusic");
 
 const introText = [
   
-  "Hey bro Dear Nasir Misbahi... 😊",
+  "Hey bro Dear Laique Misbahi... 😊",
   
   "Before this beautiful day comes to an end...",
   
